@@ -1,0 +1,15 @@
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\bin\Debug\wpfScreenCapture.exe.config
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\bin\Debug\wpfScreenCapture.exe
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\bin\Debug\wpfScreenCapture.pdb
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.csprojResolveAssemblyReference.cache
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\MainWindow.baml
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\win_capture.baml
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\MainWindow.g.cs
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\win_capture.g.cs
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\App.g.cs
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture_MarkupCompile.cache
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.g.resources
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.Properties.Resources.resources
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.csproj.GenerateResource.Cache
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.exe
+D:\vs2012\wpfScreenCapture\wpfScreenCapture\obj\Debug\wpfScreenCapture.pdb
