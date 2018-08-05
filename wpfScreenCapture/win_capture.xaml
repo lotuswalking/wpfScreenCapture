@@ -4,16 +4,19 @@
         Title="win_capture" Height="300" Width="300" AllowsTransparency="True"
         WindowState="Normal" Background="Transparent" WindowStyle="None"
         Loaded="Window_Loaded" ResizeMode="CanResizeWithGrip" SizeChanged="Window_SizeChanged"
-        LocationChanged="Window_LocationChanged" MouseDoubleClick="Window_MouseDoubleClick">
+        LocationChanged="Window_LocationChanged" MouseDoubleClick="Window_MouseDoubleClick" BorderThickness="1" BorderBrush="#FFF51616">
     <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-       
-            </Grid.ColumnDefinitions>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="*"/>           
-            </Grid.RowDefinitions>
-            <Canvas MouseDown="Canvas_MouseDown" OpacityMask="#7CC5C0C0" Background="Aqua" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Canvas MouseDown="Canvas_MouseDown" OpacityMask="#7CC5C0C0" >
+            <Canvas.Background>
+                <SolidColorBrush Color="#7FB4B4B4"/>
+            </Canvas.Background>
             <Label Grid.Row="0" Grid.Column="0" x:Name="frm_Location"    />
             <Label Grid.Row="0" Grid.Column="1" x:Name="frm_width" Content="300" Canvas.Left="150" />
             <Label Grid.Row="1" Grid.Column="0" x:Name="frm_height" Content="300" Canvas.Top="150" />
